@@ -1,8 +1,4 @@
 
-/* Universal Start */
-
-
-
 *{
     margin: 0;
     padding: 0;
@@ -54,13 +50,6 @@ button a{
 
 
 
-/* Universal End*/
-/* <!-- -- 
-----
-------
---------
------------ --> */
-/* <!-- Nav Section Start --> */
 
  .navBar{
     position: sticky;
@@ -111,15 +100,6 @@ button a{
 }
 
 
-/* <!-- Nav Section End --> */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* Welcome Section Start */
-
-
 
 .welcomeMain{
     display: flex;
@@ -162,14 +142,6 @@ button a{
 }
 
 
-
-/* Welcome Section End */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* About Section Start */
 
 section.about{
     background-image: url('../img/7.png');
@@ -218,15 +190,6 @@ section.about{
 
 
 
-
-/* About Section End */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* Recipies Section Start */
-
 .recipies{
     margin-top: 5%;
 }
@@ -253,18 +216,6 @@ section.about{
 
 
 
-
-
-
-
-/* Recipies Section End */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* Status Bar Start */
-
 .statusBar{
     /* border: 2px solid; */
     margin: 4% 2%;
@@ -277,16 +228,6 @@ section.about{
     display: flex;
     justify-content: space-between;
 }
-/* Status Bar End */
- /* <!-- -- 
-----
-------
---------
------------ -- !> */
-/* Food Setcion Start */
-
-
-
 .foods{
     margin-top: 5%;
 }
@@ -324,8 +265,6 @@ section.about{
 
 
 
-/* Food Setcion End */
-/* footer Start */
 section.footer{
     background-color: #111;
     margin-top: 5%;
@@ -343,4 +282,3 @@ section.footer{
     color: #fff;
     padding: 2% 0;
 }
-/* footer end */
